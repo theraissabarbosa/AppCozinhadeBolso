@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CozinhaDeBolso_Raissa</string>
+    <string name="descricao_imagem_receita">Imagem ilustrativa da receita</string>
+    <string name="favoritar">☆ Favoritar</string>
+    <string name="favoritado">★ Favoritado</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="modo_de_preparo">Modo de preparo</string>
+</resources>
